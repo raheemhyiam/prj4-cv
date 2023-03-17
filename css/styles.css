@@ -1,3 +1,9 @@
+.pro-text{ 
+color:#412C1E;
+text-align: center;
+font-style: italic; 
+text text-decoration: overline #BD6630;
+}
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
